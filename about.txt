@@ -1,1 +1,0 @@
-A chat system for multiple users using node.js and socket.io
