@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+form {
+    width: 500px;
+    height: auto;
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    margin-left: -200px;
+    margin-top: -50px;
+    font-size: 20px;
+}
+
+input[name="chatUsername"] {
+    margin-left: 76px;
+    height: 16px;
+    width: 180px;
+}
+
+input[name="chatPassword"] {
+    margin-left: 47px;
+    height: 16px;
+    width: 180px;
+}
+
+input[name="displayName"] {
+    margin-left: 93px;
+    height: 16px;
+    width: 180px;
+}
